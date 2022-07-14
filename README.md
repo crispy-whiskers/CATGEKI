@@ -8,19 +8,23 @@ As you may notice, I'm still building this controller, so I haven't solved all t
 # Requirements
 - Access to a 3D printer
 - Access to basic workshop tools
+    - Screwdrivers
+    - Soldering iron
 - A PC with Arduino installed (google it)
 - Internet access (to download what you need)
 
 # Parts List
 ## Lever parts (from [toxicmango's design](https://github.com/toxikmango/Ongeki-Lever))  
 ### A note: I'm using a modified version of this design in order to fit cheaper parts.
+- [608 skateboard bearings](https://smile.amazon.com/gp/product/B07R7PR72H) (2 of them) (8mm ID, 22mm OD, 7mm thick) 
+- [Dielectric grease](https://smile.amazon.com/gp/product/B000AL2RI2) 
+### The following parts are better obtained at a hardware store.
 - 5/16" fully threaded bolt for the handle (5.5-6" long) 
 - 5/16" fully threaded for the pivot rod (about 3.75"-4" long) 
-- 5/16" nylock nuts (4) 
-- [608 skateboard bearings](https://smile.amazon.com/gp/product/B07R7PR72H) (2 of them) (8mm ID, 22mm OD, 7mm thick) 
+- 5/16" nylock nuts (4)
 - m3 bolts and nuts to attach the top and bottom clamp together. (35mm long) 
 - m3 bolts can be used to attach the assembly to the controller body or #6 screws countersunk from the top of the controller going down into the lever assembly mounting holes. (Length depends on your wood thickness but I used 3/4" long screws.) 
-- [Dielectric grease](https://smile.amazon.com/gp/product/B000AL2RI2) 
+
 
 ## Controller electronics parts
 
@@ -31,5 +35,13 @@ As you may notice, I'm still building this controller, so I haven't solved all t
     - Start buttons. Official cab uses 30mm square buttons, no LED. You are crazy if you are sinking money into these.
     - Any button will do, really. 
 - 1x [Potentiometer](https://smile.amazon.com/dp/B00MCK7JMS)
-    - These only really come in bulk. Consider splitting the cost and ordering with other people. 
+    - These only really come in bulk. Consider splitting the cost and ordering with other people.
+- 1x [Sparkfun Pro Micro](https://www.amazon.com/ATmega32U4-Micro-USB-Development-Compatible-ATmega328/dp/B07PHK8SMR/)
+    - Rather widely available. Better found at Micro Center or equivalent hobby electronics shop.
+
+## Controller Body Parts
+to do
+
+## Assembly and How-To
+From here, assembly and stuff will be pretty complex. I will divide assembly into several sections. Aim to have all of the `/hardware` assembly/preparation done before beginning to go through `/software`. If you're having trouble preparing any of the materials, I may have provided more details in the relevant assembly section. 
 
