@@ -20,7 +20,7 @@ As you may notice, I'm still building this controller, so I haven't solved all t
 - [608 skateboard bearings](https://smile.amazon.com/gp/product/B07R7PR72H) (2 of them) (8mm ID, 22mm OD, 7mm thick) 
 - m3 bolts and nuts to attach the top and bottom clamp together. (35mm long) 
 - m3 bolts can be used to attach the assembly to the controller body or #6 screws countersunk from the top of the controller going down into the lever assembly mounting holes. (Length depends on your wood thickness but I used 3/4" long screws.) 
-- Dielectric grease 
+- [Dielectric grease](https://smile.amazon.com/gp/product/B000AL2RI2) 
 
 ## Controller electronics parts
 
