@@ -1,5 +1,5 @@
 # DoneGEKI
-Finally, a (soon to be) completed, documented guide for an O.N.G.E.K.I. controller.
+Finally, a (soon to be) completed, documented guide for an O.N.G.E.K.I. controller. Yes, ironic, since this isn't actually done
 
 I started this project because I had the wonderful opportunity to play on an ONGEKI machine and I immediately fell in love. I immediately started looking up DIY guides to make a controller... However, much to my dismay, literally NONE of the guides were finished, fully documented, or even guides. I went on a wild goose chase to acquire the files and knowledge I've provided here. I'm tired of poorly written, terribly documented, unfinished guides that explain nothing. This guide will make sure that doesn't happen again.
 
