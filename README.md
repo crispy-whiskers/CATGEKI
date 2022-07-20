@@ -3,7 +3,10 @@ Finally, a (soon to be) completed, documented guide for an O.N.G.E.K.I. controll
 
 I started this project because I had the wonderful opportunity to play on an ONGEKI machine and I immediately fell in love. I immediately started looking up DIY guides to make a controller... However, much to my dismay, literally NONE of the guides were finished, fully documented, or even guides. I went on a wild goose chase to acquire the files and knowledge I've provided here. I'm tired of poorly written, terribly documented, unfinished guides that explain nothing. This guide will make sure that doesn't happen again.
 
-As you may notice, I'm still building this controller, so I haven't solved all the problems. I will fill it out as I go. You bet your ass I will document everything.
+I would like to say one more thing: a lot of the stuff I am documenting and providing here isn't mine, but made by other people. I am only making sense of all of it. Thank you to the Cons&Stuff Discord for all the help and material. 
+
+### Note: 
+As you may notice, I'm still building this controller, so I haven't solved all the problems/added everything.
 
 # Requirements
 - Access to a 3D printer
@@ -16,14 +19,15 @@ As you may notice, I'm still building this controller, so I haven't solved all t
 # Parts List
 ## Lever parts (from [toxicmango's design](https://github.com/toxikmango/Ongeki-Lever))  
 ### A note: I'm using a modified version of this design in order to fit cheaper parts.
-- [608 skateboard bearings](https://smile.amazon.com/gp/product/B07R7PR72H) (2 of them) (8mm ID, 22mm OD, 7mm thick) 
-- [Dielectric grease](https://smile.amazon.com/gp/product/B000AL2RI2) 
+- 2x [608 skateboard bearings](https://smile.amazon.com/gp/product/B07R7PR72H) (2 of them) (8mm ID, 22mm OD, 7mm thick) 
+- [Dielectric grease](https://smile.amazon.com/gp/product/B000AL2RI2) or other equivalent lubrication
+    - Do not use WD-40. That will damage plastic.
 ### The following parts are better obtained at a hardware store.
-- 5/16" fully threaded bolt for the handle (5.5-6" long) 
-- 5/16" fully threaded for the pivot rod (about 3.75"-4" long) 
-- 5/16" nylock nuts (4)
-- m3 bolts and nuts to attach the top and bottom clamp together. (35mm long) 
-- m3 bolts can be used to attach the assembly to the controller body or #6 screws countersunk from the top of the controller going down into the lever assembly mounting holes. (Length depends on your wood thickness but I used 3/4" long screws.) 
+- 1x 5/16" fully threaded bolt (5.5-6" long) 
+- 1x 5/16" fully threaded bolt (about 3.75"-4" long) 
+- 4x 5/16" nylock nuts
+- ?x m3 bolts and nuts (35mm long) 
+- ?x m3 bolts/#6 screws (3/4'' ?)
 
 
 ## Controller electronics parts
