@@ -28,8 +28,8 @@ As you may notice, I'm still building this controller, so I haven't solved all t
 
 ## Controller electronics parts
 
-- 4x [ISTMALL 60mm Square Buttons](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992342)
-    - Main gameplay buttons. It's worth putting money here.
+- 6x [ISTMALL 60mm 65g Square Buttons](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992342)
+    - Main gameplay buttons. It's worth putting money here. These are the cheap kind, 65g. The cab uses 100g.
     - For other options, see the [cons wiki](https://rhythm-cons.wiki/w/Buttons)
 - 2x [30mm Buttons](https://smile.amazon.com/dp/B07WQSMY8B)
     - Start buttons. Official cab uses 30mm square buttons, no LED. You are crazy if you are sinking money into these.
