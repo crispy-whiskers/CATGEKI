@@ -41,7 +41,7 @@ As you may notice, I'm still building this controller, so I haven't solved all t
 - 1x [Potentiometer](https://smile.amazon.com/dp/B00MCK7JMS)
     - These only really come in bulk. Consider splitting the cost and ordering with other people.
 - 1x [Sparkfun Pro Micro](https://www.amazon.com/ATmega32U4-Micro-USB-Development-Compatible-ATmega328/dp/B07PHK8SMR/)
-    - Rather widely available. Better found at Micro Center or equivalent hobby electronics shop.
+    - Rather widely available. Better found at Micro Center or equivalent hobby electronics shop. Clones are ok too.
 
 ## Controller Body Parts
 to do
