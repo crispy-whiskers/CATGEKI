@@ -1,7 +1,7 @@
 # DoneGEKI
 Finally, a (soon to be) completed, documented guide for an O.N.G.E.K.I. controller. Yes, ironic, since this isn't actually done
 
-I started this project because I had the wonderful opportunity to play on an ONGEKI machine and I immediately fell in love. I immediately started looking up DIY guides to make a controller... However, much to my dismay, literally NONE of the guides were finished, fully documented, or even guides. I went on a wild goose chase to acquire the files and knowledge I've provided here. I'm tired of poorly written, terribly documented, unfinished guides that explain nothing. This guide will make sure that doesn't happen again.
+I started this project because I had the wonderful opportunity to play on an ONGEKI machine and fell in love. I immediately started looking up DIY guides to make a controller... However, much to my dismay, NONE of the guides were finished, fully documented, or even guides. I went on a wild goose chase to acquire the files and knowledge I've provided here. I'm tired of poorly written, terribly documented, unfinished guides that explain nothing. This guide will make sure that doesn't happen again.
 
 I would like to say one more thing: a lot of the stuff I am documenting and providing here isn't mine, but made by other people. I am only making sense of all of it. Thank you to the Cons&Stuff Discord for all the help and material. 
 
@@ -19,7 +19,7 @@ As you may notice, I'm still building this con troller, so I haven't solved all 
 # Parts List
 ## Lever parts (from [toxicmango's design](https://github.com/toxikmango/Ongeki-Lever))  
 ### A note: I'm using a modified version of this design in order to fit cheaper parts.
-- 2x [608 skateboard bearings](https://smile.amazon.com/gp/product/B07R7PR72H) (2 of them) (8mm ID, 22mm OD, 7mm thick) 
+- 2x [608 skateboard bearings](https://smile.amazon.com/gp/product/B07R7PR72H)(8mm ID, 22mm OD, 7mm thick) 
 - [Dielectric grease](https://smile.amazon.com/gp/product/B000AL2RI2) or other equivalent lubrication
     - Do not use WD-40. That will damage plastic.
 ### The following parts are better obtained at a hardware store.
