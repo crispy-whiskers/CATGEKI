@@ -6,7 +6,7 @@ I started this project because I had the wonderful opportunity to play on an ONG
 I would like to say one more thing: a lot of the stuff I am documenting and providing here isn't mine, but made by other people. I am only making sense of all of it. Thank you to the Cons&Stuff Discord for all the help and material. 
 
 ### Note: 
-As you may notice, I'm still building this controller, so I haven't solved all the problems/added everything.
+As you may notice, I'm still building this con troller, so I haven't solved all the problems/added everything.
 
 # Requirements
 - Access to a 3D printer
@@ -26,7 +26,7 @@ As you may notice, I'm still building this controller, so I haven't solved all t
 - 1x 5/16" fully threaded bolt (5.5-6" long) 
 - 1x 5/16" fully threaded bolt (about 3.75"-4" long) 
 - 4x 5/16" nylock nuts
-- ?x m3 bolts and nuts (35mm long) 
+- 4x m3 bolts and nuts (35mm long) 
 - ?x m3 bolts/#6 screws (3/4'' ?)
 
 
